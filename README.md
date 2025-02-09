@@ -4,7 +4,7 @@ This repository contains the SQL scripts for your comprehensive case study on Da
 
 ## Files
 
-- **casestudy.sql**: Contains all SQL commands including database creation, analytical queries, views, stored procedures, and security implementations.
+- [**casestudy.sql**](https://github.com/abhinavbhandar/case-study/blob/main/datasciencejob_2024.sql): Contains all SQL commands including database creation, analytical queries, views, stored procedures, and security implementations.
 
 ## How to Use
 
